@@ -1,5 +1,15 @@
 ## How to Run the .NET Publisher and Consumer
 
+### Prerequisites
+
+Before running the project, ensure the following prerequisites are met:
+
+#### .NET SDK 8.0 or Later
+
+Install the .NET SDK 8.0 or later to support the specified target framework (`net8.0`). [Download .NET SDK](https://dotnet.microsoft.com/download)
+
+### Steps to Run the Project
+
 1. **Clone the Repository**  
     Use the following command to clone the repository:
     
