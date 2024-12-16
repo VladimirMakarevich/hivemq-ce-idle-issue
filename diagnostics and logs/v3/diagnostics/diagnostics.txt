@@ -1,0 +1,126 @@
+   __ ___          __  _______     ___  _                         __  _       
+  / // (_)  _____ /  |/  / __ \   / _ \(_)__ ____ ____  ___  ___ / /_(_)______
+ / _  / / |/ / -_) /|_/ / /_/ /  / // / / _ `/ _ `/ _ \/ _ \(_-</ __/ / __(_-<
+/_//_/_/|___/\__/_/  /_/\___\_\ /____/_/\_,_/\_, /_//_/\___/___/\__/_/\__/___/
+                                            /___/                             
+
+Generated at 2024-12-16T07:20:16.532295121 
+Please send this file along with any other files in the 'diagnostic' folder to support@hivemq.com.
+
+
+##############################
+#     HiveMQ Information     #
+##############################
+
+[HiveMQ Version] = [2024.9]
+
+##############################
+#   Java System Properties   #
+##############################
+
+[hivemq.home] = [/opt/hivemq]
+[java.specification.version] = [21]
+[user.region] = [US]
+[sun.jnu.encoding] = [UTF-8]
+[java.class.path] = [/opt/hivemq/bin/hivemq.jar]
+[com.sun.management.jmxremote.authenticate] = [false]
+[java.vm.vendor] = [Eclipse Adoptium]
+[sun.arch.data.model] = [64]
+[java.vendor.url] = [https://adoptium.net/]
+[user.timezone] = [Etc/UTC]
+[java.vm.specification.version] = [21]
+[os.name] = [Linux]
+[sun.java.launcher] = [SUN_STANDARD]
+[user.country] = [US]
+[sun.boot.library.path] = [/opt/java/openjdk/lib]
+[com.sun.management.jmxremote.ssl] = [false]
+[sun.java.command] = [/opt/hivemq/bin/hivemq.jar]
+[com.sun.management.jmxremote] = []
+[jdk.debug] = [release]
+[sun.cpu.endian] = [little]
+[user.home] = [/opt/hivemq]
+[user.language] = [en]
+[java.specification.vendor] = [Oracle Corporation]
+[java.version.date] = [2024-04-16]
+[java.home] = [/opt/java/openjdk]
+[file.separator] = [/]
+[hivemq.log.folder] = [/opt/hivemq/log]
+[java.vm.compressedOopsMode] = [Zero based]
+[line.separator] = [
+]
+[java.vm.specification.vendor] = [Oracle Corporation]
+[com.sun.management.jmxremote.local.only] = [false]
+[java.specification.name] = [Java Platform API Specification]
+[sun.management.compiler] = [HotSpot 64-Bit Tiered Compilers]
+[diagnosticMode] = [true]
+[java.runtime.version] = [21.0.3+9-LTS]
+[java.net.preferIPv4Stack] = [true]
+[user.name] = [?]
+[stdout.encoding] = [UTF-8]
+[path.separator] = [:]
+[java.security.egd] = [file:/dev/./urandom]
+[os.version] = [5.10.16.3-microsoft-standard-WSL2]
+[java.runtime.name] = [OpenJDK Runtime Environment]
+[file.encoding] = [UTF-8]
+[jnidispatch.path] = [/opt/hivemq/.cache/JNA/temp/jna877739092932705635.tmp]
+[java.vm.name] = [OpenJDK 64-Bit Server VM]
+[jna.platform.library.path] = [/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/usr/lib64:/lib64:/usr/lib:/lib:/opt/java/openjdk/lib:/opt/java/openjdk/lib/server]
+[java.vendor.version] = [Temurin-21.0.3+9]
+[jna.loaded] = [true]
+[java.vendor.url.bug] = [https://github.com/adoptium/adoptium-support/issues]
+[java.io.tmpdir] = [/tmp]
+[com.sun.management.jmxremote.port] = [9010]
+[java.version] = [21.0.3]
+[user.dir] = [/opt/hivemq]
+[os.arch] = [amd64]
+[java.vm.specification.name] = [Java Virtual Machine Specification]
+[native.encoding] = [UTF-8]
+[java.library.path] = [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+[java.vm.info] = [mixed mode, sharing]
+[stderr.encoding] = [UTF-8]
+[java.vendor] = [Eclipse Adoptium]
+[java.vm.version] = [21.0.3+9-LTS]
+[java.rmi.server.randomIDs] = [true]
+[sun.io.unicode.encoding] = [UnicodeLittle]
+[java.class.version] = [65.0]
+
+##############################
+#     System Information     #
+##############################
+
+[Available Processors] = [16]
+[System Load Average] = [0.669921875]
+[Total Swap Space Size] = [8589934592]
+[Committed Virtual Memory Size] = [18294579200]
+[Total Physical Memory Size] = [18294579200]
+[Max File Descriptor Count] = [1048576]
+[Open File Descriptor Count] = [1232]
+
+##############################
+#     Network Interfaces     #
+##############################
+
+┌[eth0]
+├─[Display Name] = [eth0]
+├─[MAC Address] = [02-42-AC-11-00-02]
+├─[MTU] = [1500]
+├─[Is Loopback?] = [false]
+├─[Is P2P?] = [false]
+├─[Is Up?] = [true]
+├─[Is Virtual?] = [false]
+├─[Supports Multicast?] = [true]
+└─[Inet Addresses]
+	├─[/172.17.0.2]
+
+┌[lo]
+├─[Display Name] = [lo]
+├─[MAC Address] = [Could not determine MAC Address]
+├─[MTU] = [65536]
+├─[Is Loopback?] = [true]
+├─[Is P2P?] = [false]
+├─[Is Up?] = [true]
+├─[Is Virtual?] = [false]
+├─[Supports Multicast?] = [false]
+└─[Inet Addresses]
+	├─[/127.0.0.1]
+
