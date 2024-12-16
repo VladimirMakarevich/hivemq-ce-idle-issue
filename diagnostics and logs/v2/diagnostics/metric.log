@@ -1,0 +1,1911 @@
+12/16/24, 7:17:29 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 0
+com.hivemq.networking.bytes.write.total
+             value = 0
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 0
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 0
+com.hivemq.messages.incoming.publish.count
+             count = 0
+com.hivemq.messages.incoming.total.count
+             count = 0
+com.hivemq.messages.outgoing.publish.count
+             count = 0
+com.hivemq.messages.outgoing.total.count
+             count = 0
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 0
+
+
+12/16/24, 7:17:30 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 0
+com.hivemq.networking.bytes.write.total
+             value = 0
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 0
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 0
+com.hivemq.messages.incoming.publish.count
+             count = 0
+com.hivemq.messages.incoming.total.count
+             count = 0
+com.hivemq.messages.outgoing.publish.count
+             count = 0
+com.hivemq.messages.outgoing.total.count
+             count = 0
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 0
+
+
+12/16/24, 7:17:31 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 0
+com.hivemq.networking.bytes.write.total
+             value = 0
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 0
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 0
+com.hivemq.messages.incoming.publish.count
+             count = 0
+com.hivemq.messages.incoming.total.count
+             count = 0
+com.hivemq.messages.outgoing.publish.count
+             count = 0
+com.hivemq.messages.outgoing.total.count
+             count = 0
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 0
+
+
+12/16/24, 7:17:32 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 273
+com.hivemq.networking.bytes.write.total
+             value = 41
+com.hivemq.networking.connections.current
+             value = 1
+com.hivemq.sessions.overall.current
+             value = 1
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 1
+com.hivemq.messages.incoming.publish.count
+             count = 0
+com.hivemq.messages.incoming.total.count
+             count = 6
+com.hivemq.messages.outgoing.publish.count
+             count = 0
+com.hivemq.messages.outgoing.total.count
+             count = 6
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:33 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 273
+com.hivemq.networking.bytes.write.total
+             value = 41
+com.hivemq.networking.connections.current
+             value = 1
+com.hivemq.sessions.overall.current
+             value = 1
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 1
+com.hivemq.messages.incoming.publish.count
+             count = 0
+com.hivemq.messages.incoming.total.count
+             count = 6
+com.hivemq.messages.outgoing.publish.count
+             count = 0
+com.hivemq.messages.outgoing.total.count
+             count = 6
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:34 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 1125
+com.hivemq.networking.bytes.write.total
+             value = 162
+com.hivemq.networking.connections.current
+             value = 13
+com.hivemq.sessions.overall.current
+             value = 13
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 13
+com.hivemq.messages.incoming.publish.count
+             count = 0
+com.hivemq.messages.incoming.total.count
+             count = 18
+com.hivemq.messages.outgoing.publish.count
+             count = 0
+com.hivemq.messages.outgoing.total.count
+             count = 17
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:35 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 163773
+com.hivemq.networking.bytes.write.total
+             value = 64277
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 1339
+com.hivemq.messages.incoming.total.count
+             count = 1808
+com.hivemq.messages.outgoing.publish.count
+             count = 493
+com.hivemq.messages.outgoing.total.count
+             count = 1823
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:36 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 334229
+com.hivemq.networking.bytes.write.total
+             value = 183121
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 2725
+com.hivemq.messages.incoming.total.count
+             count = 4136
+com.hivemq.messages.outgoing.publish.count
+             count = 1435
+com.hivemq.messages.outgoing.total.count
+             count = 4186
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:37 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 481709
+com.hivemq.networking.bytes.write.total
+             value = 310401
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 3920
+com.hivemq.messages.incoming.total.count
+             count = 6352
+com.hivemq.messages.outgoing.publish.count
+             count = 2456
+com.hivemq.messages.outgoing.total.count
+             count = 6398
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:38 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 661493
+com.hivemq.networking.bytes.write.total
+             value = 393841
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 5395
+com.hivemq.messages.incoming.total.count
+             count = 8521
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 8521
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:39 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 866693
+com.hivemq.networking.bytes.write.total
+             value = 400681
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 0
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 7105
+com.hivemq.messages.incoming.total.count
+             count = 10231
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 10231
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:40 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 1102493
+com.hivemq.networking.bytes.write.total
+             value = 408541
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 971
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 9070
+com.hivemq.messages.incoming.total.count
+             count = 12196
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 12196
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:41 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 1357493
+com.hivemq.networking.bytes.write.total
+             value = 417041
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 3096
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 11195
+com.hivemq.messages.incoming.total.count
+             count = 14321
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 14321
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:42 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 1577093
+com.hivemq.networking.bytes.write.total
+             value = 424361
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 4926
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 13025
+com.hivemq.messages.incoming.total.count
+             count = 16151
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 16151
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:43 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 1843733
+com.hivemq.networking.bytes.write.total
+             value = 433221
+com.hivemq.networking.connections.current
+             value = 21
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 7141
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 15260
+com.hivemq.messages.incoming.total.count
+             count = 18387
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 18366
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 0
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:44 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006173
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 1
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19746
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 20
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:45 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006173
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 1
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19746
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 20
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:46 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006173
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 1
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19746
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 20
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:47 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:48 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:49 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:50 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:51 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:52 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:53 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:54 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:55 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:56 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:57 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:58 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:17:59 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:00 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:01 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:02 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:03 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:04 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:05 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:06 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:07 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:08 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:09 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:10 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:11 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:12 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:13 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:14 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:15 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:16 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+
+12/16/24, 7:18:17 AM ===========================================================
+
+-- Gauges ----------------------------------------------------------------------
+com.hivemq.messages.retained.current
+             value = 0
+com.hivemq.networking.bytes.read.total
+             value = 2006177
+com.hivemq.networking.bytes.write.total
+             value = 438641
+com.hivemq.networking.connections.current
+             value = 0
+com.hivemq.sessions.overall.current
+             value = 21
+
+-- Counters --------------------------------------------------------------------
+com.hivemq.messages.dropped.count
+             count = 8501
+com.hivemq.messages.incoming.connect.count
+             count = 21
+com.hivemq.messages.incoming.publish.count
+             count = 16600
+com.hivemq.messages.incoming.total.count
+             count = 19747
+com.hivemq.messages.outgoing.publish.count
+             count = 3100
+com.hivemq.messages.outgoing.total.count
+             count = 19721
+com.hivemq.messages.will.count.current
+             count = 0
+com.hivemq.messages.will.published.count.total
+             count = 0
+com.hivemq.mqtt.connection.not-writable.current
+             count = 0
+com.hivemq.networking.connections-closed.total.count
+             count = 21
+com.hivemq.subscriptions.overall.current
+             count = 5
+
+

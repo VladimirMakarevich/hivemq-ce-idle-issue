@@ -1,0 +1,24 @@
+2024-12-16 07:17:26,012 INFO  - Starting HiveMQ Community Edition Server
+2024-12-16 07:17:26,013 INFO  - HiveMQ version: 2024.9
+2024-12-16 07:17:26,013 INFO  - HiveMQ home directory: /opt/hivemq
+2024-12-16 07:17:26,085 INFO  - Log Configuration was overridden by /opt/hivemq/conf/logback.xml
+2024-12-16 07:17:26,253 INFO  - This HiveMQ ID is y2BAH
+2024-12-16 07:17:27,870 INFO  - Starting with file persistence mode.
+2024-12-16 07:17:27,949 INFO  - Starting with Diagnostic mode
+2024-12-16 07:17:28,343 INFO  - Creating 'diagnostics' folder in HiveMQ home folder: /opt/hivemq
+2024-12-16 07:17:28,344 INFO  - Creating Diagnostics file: /opt/hivemq/diagnostics/diagnostics.txt
+2024-12-16 07:17:28,357 INFO  - Creating trace log /opt/hivemq/diagnostics/tracelog.log
+2024-12-16 07:17:28,416 INFO  - Starting HiveMQ extension system.
+2024-12-16 07:17:28,451 WARN  - 
+################################################################################################################
+# This HiveMQ deployment is not secure! You are lacking Authentication and Authorization.                      #
+# Right now any MQTT client can connect to the broker with a full set of permissions.                          #
+# For production usage, add an appropriate security extension and remove the hivemq-allow-all extension.       #
+# You can download security extensions from the HiveMQ Marketplace (https://www.hivemq.com/extensions/).       #
+################################################################################################################
+2024-12-16 07:17:28,453 INFO  - Extension "Allow All Extension" version 1.1.0 started successfully.
+2024-12-16 07:17:28,481 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2024-12-16 07:17:28,507 INFO  - Starting Websocket listener on address 0.0.0.0 and port 8000
+2024-12-16 07:17:28,510 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883.
+2024-12-16 07:17:28,510 INFO  - Started Websocket Listener on address 0.0.0.0 and on port 8000.
+2024-12-16 07:17:28,510 INFO  - Started HiveMQ in 2501ms
