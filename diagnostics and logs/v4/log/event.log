@@ -1,0 +1,129 @@
+2025-01-15 16:01:08,940 - Client ID: hmq_P9eW3_0_5be99117da4631bf0767c1a0a781fba3, IP: 172.17.0.1, Clean Start: true, Session Expiry: 0 connected.
+2025-01-15 16:01:19,166 - Client ID: DotnetPublisher374f83da-8467-4dbc-85dd-bc0f23140469, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,202 - Client ID: DotnetPublisher621d5373-976c-4ded-9b9c-7b1ce35adfb2, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,220 - Client ID: DotnetPublisher5fbb0daa-7b77-4467-a68e-3209f7fe9043, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,236 - Client ID: DotnetPublisher9233cd81-4da5-4a79-8437-cec0a82ec88e, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,254 - Client ID: DotnetPublisher269ffcf7-db27-43ab-8182-9e1e9f300beb, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,267 - Client ID: DotnetPublisherb277ef88-584b-4b4e-864c-f85b5b955a6a, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,280 - Client ID: DotnetPublisher2e205011-df77-4d3a-ad3b-40639082887c, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,295 - Client ID: DotnetPublisherdca817e8-3d9a-4596-a5ba-73b568b4cbce, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,311 - Client ID: DotnetPublisher3673d67d-3476-46d8-8798-72f0667d811a, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,326 - Client ID: DotnetPublisherf87f71e7-5765-4dcb-ad06-f3d62da9345b, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,341 - Client ID: DotnetPublisherec4fb150-a580-4518-9c1a-f4da2ea11989, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,355 - Client ID: DotnetPublishercd8f84f4-2ea4-4ede-84db-077a5a6cb0c7, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,369 - Client ID: DotnetPublisher69fdeda9-0668-442d-a4a4-180b9a3ee8fc, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,382 - Client ID: DotnetPublisher6f1490e5-7ff0-486d-ab5d-1a9c4f1942ac, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,394 - Client ID: DotnetPublisher8953cac8-1e9a-436b-bbbb-b0e19540ab72, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,407 - Client ID: DotnetPublishere15be7d1-9c48-4a25-94ab-f9d3b7497621, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,415 - Client ID: DotnetPublisher4d81c14f-3a92-425e-895f-03a96ba914c1, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,428 - Client ID: DotnetPublisher167a3d7d-3edd-4d95-8634-cb80755a9c7c, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,439 - Client ID: DotnetPublisherbee46d31-3f61-4e73-b71f-75dc69e6f980, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:19,454 - Client ID: DotnetPublishera7129bce-729f-44c9-b7a2-6a8e33e4286f, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:01:20,020 - Client ID: hmq_P9eW3_0_5be99117da4631bf0767c1a0a781fba3, IP: 172.17.0.1 disconnected gracefully. Reason given by client: QoS 1 PUBLISH must not be resent during the same connection
+2025-01-15 16:01:31,351 - Client ID: DotnetPublisher374f83da-8467-4dbc-85dd-bc0f23140469, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,357 - Client ID: DotnetPublisher621d5373-976c-4ded-9b9c-7b1ce35adfb2, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,359 - Client ID: DotnetPublisher5fbb0daa-7b77-4467-a68e-3209f7fe9043, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,360 - Client ID: DotnetPublisher9233cd81-4da5-4a79-8437-cec0a82ec88e, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,361 - Client ID: DotnetPublisher269ffcf7-db27-43ab-8182-9e1e9f300beb, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,361 - Client ID: DotnetPublisherb277ef88-584b-4b4e-864c-f85b5b955a6a, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,361 - Client ID: DotnetPublisher2e205011-df77-4d3a-ad3b-40639082887c, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,362 - Client ID: DotnetPublisherdca817e8-3d9a-4596-a5ba-73b568b4cbce, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,362 - Client ID: DotnetPublisher3673d67d-3476-46d8-8798-72f0667d811a, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,362 - Client ID: DotnetPublisherf87f71e7-5765-4dcb-ad06-f3d62da9345b, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,363 - Client ID: DotnetPublisherec4fb150-a580-4518-9c1a-f4da2ea11989, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,363 - Client ID: DotnetPublishercd8f84f4-2ea4-4ede-84db-077a5a6cb0c7, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,364 - Client ID: DotnetPublisher69fdeda9-0668-442d-a4a4-180b9a3ee8fc, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,364 - Client ID: DotnetPublisher6f1490e5-7ff0-486d-ab5d-1a9c4f1942ac, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,364 - Client ID: DotnetPublisher8953cac8-1e9a-436b-bbbb-b0e19540ab72, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,365 - Client ID: DotnetPublishere15be7d1-9c48-4a25-94ab-f9d3b7497621, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,366 - Client ID: DotnetPublisher4d81c14f-3a92-425e-895f-03a96ba914c1, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,366 - Client ID: DotnetPublisher167a3d7d-3edd-4d95-8634-cb80755a9c7c, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,367 - Client ID: DotnetPublisherbee46d31-3f61-4e73-b71f-75dc69e6f980, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:01:31,367 - Client ID: DotnetPublishera7129bce-729f-44c9-b7a2-6a8e33e4286f, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:02:24,790 - Client ID: hmq_P9eW3_1_e7ddd1b31793b1b3ce1ff638d28a2693, IP: 172.17.0.1, Clean Start: true, Session Expiry: 0 connected.
+2025-01-15 16:02:35,190 - Client ID: DotnetPublisherd0dbd2f9-204b-4c30-97c3-218a370f0706, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,217 - Client ID: DotnetPublisher68a3557e-3935-48ea-8452-13ca89cac149, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,230 - Client ID: DotnetPublisher3cbd5eca-41c7-4bd3-8143-c22bf9417c45, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,243 - Client ID: DotnetPublisher171f3aea-5cc4-4c33-8f06-a5eba2658d54, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,256 - Client ID: DotnetPublishere0a794c8-2955-4dbe-846d-dcd61426f338, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,268 - Client ID: DotnetPublisher3a8b745f-9abe-4b43-9017-c14c324b6108, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,316 - Client ID: DotnetPublisher7b09d057-5543-4781-ba88-5046f7cbd8cf, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,328 - Client ID: DotnetPublisherec8e9fa3-f94e-40e5-99e1-97478795d61f, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,334 - Client ID: DotnetPublisherad64d385-8f5f-421a-a64b-0b2ea297195e, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,349 - Client ID: DotnetPublisher07934481-ef12-42a4-9dfc-7820f29bc65a, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,358 - Client ID: DotnetPublisherfe029f64-a1f2-4d45-8230-ece246c66315, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,368 - Client ID: DotnetPublishercbd3ae00-1758-4222-a157-1ebdb91f4bcb, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,374 - Client ID: DotnetPublisher65d37ca2-d6aa-4d2a-94fd-329747a29c62, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,385 - Client ID: DotnetPublisher3faef698-5956-4a4d-9ea9-dc9ac4426d1c, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,390 - Client ID: DotnetPublisher63babad8-e7c0-4d24-ad83-d4ce4a13124d, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,400 - Client ID: DotnetPublisher4656b71a-54bd-4fc4-b3b3-9ca6494ab6fd, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,410 - Client ID: DotnetPublishercdf8f4cc-368e-4d8d-bf84-c1d19862780f, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,420 - Client ID: DotnetPublisherc1b15af8-55c0-4f87-b2a7-b9d5440cb1d1, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,432 - Client ID: DotnetPublisherff7e9d1a-b479-4557-b78c-cddf979143c1, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:02:35,437 - Client ID: DotnetPublisher15315267-6946-41bb-bca3-45a23c6e2332, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:04:01,658 - Client ID: hmq_P9eW3_1_e7ddd1b31793b1b3ce1ff638d28a2693, IP: 172.17.0.1 disconnected gracefully. Reason given by client: QoS 1 PUBLISH must not be resent during the same connection
+2025-01-15 16:04:12,226 - Client ID: DotnetPublisherd0dbd2f9-204b-4c30-97c3-218a370f0706, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,231 - Client ID: DotnetPublisher68a3557e-3935-48ea-8452-13ca89cac149, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,235 - Client ID: DotnetPublisher3cbd5eca-41c7-4bd3-8143-c22bf9417c45, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,235 - Client ID: DotnetPublisher171f3aea-5cc4-4c33-8f06-a5eba2658d54, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,236 - Client ID: DotnetPublishere0a794c8-2955-4dbe-846d-dcd61426f338, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,237 - Client ID: DotnetPublisher3a8b745f-9abe-4b43-9017-c14c324b6108, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,239 - Client ID: DotnetPublisher7b09d057-5543-4781-ba88-5046f7cbd8cf, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,242 - Client ID: DotnetPublisherad64d385-8f5f-421a-a64b-0b2ea297195e, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,241 - Client ID: DotnetPublisher07934481-ef12-42a4-9dfc-7820f29bc65a, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,246 - Client ID: DotnetPublisher15315267-6946-41bb-bca3-45a23c6e2332, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,246 - Client ID: DotnetPublisher65d37ca2-d6aa-4d2a-94fd-329747a29c62, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,247 - Client ID: DotnetPublisherfe029f64-a1f2-4d45-8230-ece246c66315, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,247 - Client ID: DotnetPublisherec8e9fa3-f94e-40e5-99e1-97478795d61f, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,246 - Client ID: DotnetPublisher4656b71a-54bd-4fc4-b3b3-9ca6494ab6fd, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,246 - Client ID: DotnetPublisherff7e9d1a-b479-4557-b78c-cddf979143c1, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,248 - Client ID: DotnetPublishercdf8f4cc-368e-4d8d-bf84-c1d19862780f, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,248 - Client ID: DotnetPublishercbd3ae00-1758-4222-a157-1ebdb91f4bcb, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,248 - Client ID: DotnetPublisherc1b15af8-55c0-4f87-b2a7-b9d5440cb1d1, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,249 - Client ID: DotnetPublisher63babad8-e7c0-4d24-ad83-d4ce4a13124d, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:04:12,249 - Client ID: DotnetPublisher3faef698-5956-4a4d-9ea9-dc9ac4426d1c, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:05:41,540 - Client ID: hmq_P9eW3_2_f3875a8580ac06b0ee588af38027bb83, IP: 172.17.0.1, Clean Start: true, Session Expiry: 0 connected.
+2025-01-15 16:05:48,484 - Client ID: DotnetPublisher99a52b35-07bd-40f3-b23e-5a42cda16cbc, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,511 - Client ID: DotnetPublisher394165d3-cbe7-4e04-84b5-17fa04fa1941, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,522 - Client ID: DotnetPublisher87c52f66-23e1-410d-bbd6-df465a8e708b, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,532 - Client ID: DotnetPublisher6a04fb63-859d-4c5e-8e0e-f79174b2441b, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,540 - Client ID: DotnetPublishera3224d50-c35e-47cb-82b2-45d02d012d30, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,552 - Client ID: DotnetPublisher59d24b7a-2422-4608-951e-ad91e69c971f, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,563 - Client ID: DotnetPublisher547fd505-dbf0-4e41-9fe8-a45ac1485d42, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,575 - Client ID: DotnetPublisherabdc5587-433c-43b2-aad5-af8d2b36b36c, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,585 - Client ID: DotnetPublisher3b6301ea-40da-413b-bcb8-50de1d10a134, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,595 - Client ID: DotnetPublisher2b9fab07-be3b-42f3-ad7d-714768adf417, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,604 - Client ID: DotnetPublisher1c25b036-bd32-469f-b722-d61188a4439d, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,614 - Client ID: DotnetPublisher542f722b-dcbe-47ca-a3ae-e2015d6080c0, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,625 - Client ID: DotnetPublisherf907540a-703c-44bd-8997-11dd6b53efe2, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,635 - Client ID: DotnetPublisherd47a95db-d588-40b4-92e1-4920d88c990d, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,646 - Client ID: DotnetPublisher5947a2d7-b1fd-4172-a7b1-b8e1e0a17794, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,650 - Client ID: DotnetPublisher07adae24-35d2-4813-89e7-162066f5353e, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,659 - Client ID: DotnetPublisher11c450e3-cdaf-4bd8-bb40-07485d6a4ecb, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,671 - Client ID: DotnetPublisher63047e46-50fa-42c3-999d-c4b17ade0857, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,682 - Client ID: DotnetPublisherdcdab48d-5bf4-4e9c-9d96-cbbe71daf867, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:05:48,693 - Client ID: DotnetPublisherc91d3be3-04d0-4d11-a387-fb7538b4f62b, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-15 16:06:34,900 - Client ID: hmq_P9eW3_2_f3875a8580ac06b0ee588af38027bb83, IP: 172.17.0.1 disconnected gracefully. Reason given by client: QoS 1 PUBLISH must not be resent during the same connection
+2025-01-15 16:06:47,270 - Client ID: hmq_P9eW3_3_1e591e265856ead8e7eda57c40262519, IP: 172.17.0.1, Clean Start: true, Session Expiry: 0 connected.
+2025-01-15 16:07:00,179 - Client ID: hmq_P9eW3_0_5be99117da4631bf0767c1a0a781fba3 session has expired at 2025-01-15 16:01:20. All persistent data for this client has been removed.
+2025-01-15 16:09:03,464 - Client ID: DotnetPublisher99a52b35-07bd-40f3-b23e-5a42cda16cbc, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,478 - Client ID: DotnetPublisher394165d3-cbe7-4e04-84b5-17fa04fa1941, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,482 - Client ID: DotnetPublisher87c52f66-23e1-410d-bbd6-df465a8e708b, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,483 - Client ID: DotnetPublisher6a04fb63-859d-4c5e-8e0e-f79174b2441b, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,483 - Client ID: DotnetPublishera3224d50-c35e-47cb-82b2-45d02d012d30, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,484 - Client ID: DotnetPublisher59d24b7a-2422-4608-951e-ad91e69c971f, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,485 - Client ID: DotnetPublisher547fd505-dbf0-4e41-9fe8-a45ac1485d42, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,486 - Client ID: DotnetPublisherabdc5587-433c-43b2-aad5-af8d2b36b36c, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,487 - Client ID: DotnetPublisher3b6301ea-40da-413b-bcb8-50de1d10a134, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,487 - Client ID: DotnetPublisher2b9fab07-be3b-42f3-ad7d-714768adf417, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,488 - Client ID: DotnetPublisher1c25b036-bd32-469f-b722-d61188a4439d, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,490 - Client ID: DotnetPublisher542f722b-dcbe-47ca-a3ae-e2015d6080c0, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,491 - Client ID: DotnetPublisherf907540a-703c-44bd-8997-11dd6b53efe2, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,492 - Client ID: DotnetPublisherd47a95db-d588-40b4-92e1-4920d88c990d, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,493 - Client ID: DotnetPublisher5947a2d7-b1fd-4172-a7b1-b8e1e0a17794, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,494 - Client ID: DotnetPublisher07adae24-35d2-4813-89e7-162066f5353e, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,494 - Client ID: DotnetPublisher11c450e3-cdaf-4bd8-bb40-07485d6a4ecb, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,495 - Client ID: DotnetPublisher63047e46-50fa-42c3-999d-c4b17ade0857, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,496 - Client ID: DotnetPublisherdcdab48d-5bf4-4e9c-9d96-cbbe71daf867, IP: 172.17.0.1 disconnected gracefully.
+2025-01-15 16:09:03,498 - Client ID: DotnetPublisherc91d3be3-04d0-4d11-a387-fb7538b4f62b, IP: 172.17.0.1 disconnected gracefully.
+
