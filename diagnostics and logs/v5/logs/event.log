@@ -1,0 +1,42 @@
+2025-01-29 14:17:02,496 - Client ID: DotnetPublisher6250cd78-2b8b-40a2-88ee-7ef936fef790, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,534 - Client ID: DotnetPublisher467f9d1f-c835-4f00-9747-7bb2aa223916, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,551 - Client ID: DotnetPublisher6e083634-5b2a-491e-a0a8-01fdf57cedf7, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,570 - Client ID: DotnetPublishera7939671-1b88-4b89-a1b4-4a98821aeb3a, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,587 - Client ID: DotnetPublisherd00eff1f-a84c-4800-822a-57949951d96c, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,610 - Client ID: DotnetPublisher9f96534c-2347-4273-9432-1dd94aab6b93, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,630 - Client ID: DotnetPublisher2ada8acf-1b62-4b56-a9fb-72b4169edea9, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,651 - Client ID: DotnetPublisher83e9ea9b-f4a7-4ae2-ae8a-37792dcfbd1b, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,670 - Client ID: DotnetPublisherc701227b-bd61-45ab-9b29-57023a327026, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,689 - Client ID: DotnetPublisher381a7ea2-34b7-48c0-b801-92946f2c44ea, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,709 - Client ID: DotnetPublisherd7755e2d-ce4f-486a-bdab-850bdadb5ce2, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,727 - Client ID: DotnetPublisher0c88b339-9b50-43c1-9c56-0167d361e4f2, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,745 - Client ID: DotnetPublisher34779eb7-3afd-4162-9886-5c05ae092841, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,764 - Client ID: DotnetPublishere79acdbd-ca49-4ee9-b5f2-ae8d35017374, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,778 - Client ID: DotnetPublisher39ac2767-5378-446f-a039-287cd110da51, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,796 - Client ID: DotnetPublisher701d8e84-a07d-4300-9298-2ff116c552b2, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,814 - Client ID: DotnetPublisher4bfb52a9-a546-474c-951b-f53a0dada973, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,829 - Client ID: DotnetPublisherdc1b2f43-cb89-4c6d-9865-1ec61545a39e, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,840 - Client ID: DotnetPublisher4ed5b346-b2b3-498e-9b6b-43f5ddcbef16, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:02,855 - Client ID: DotnetPublisherc5f63248-fd82-43b0-910a-cc926363c089, IP: 172.17.0.1, Clean Start: false, Session Expiry: 432000 connected.
+2025-01-29 14:17:04,816 - Client ID: RawSubscriber, IP: 172.17.0.1, Clean Start: false, Session Expiry: 0 connected.
+2025-01-29 14:17:37,644 - Client ID: RawSubscriber, IP: 172.17.0.1 disconnected gracefully. Reason given by client: QoS 1 PUBLISH must not be resent during the same connection
+2025-01-29 14:18:07,496 - Client ID: DotnetPublisher6250cd78-2b8b-40a2-88ee-7ef936fef790, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,508 - Client ID: DotnetPublisher467f9d1f-c835-4f00-9747-7bb2aa223916, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,511 - Client ID: DotnetPublisher6e083634-5b2a-491e-a0a8-01fdf57cedf7, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,511 - Client ID: DotnetPublishera7939671-1b88-4b89-a1b4-4a98821aeb3a, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,512 - Client ID: DotnetPublisherd00eff1f-a84c-4800-822a-57949951d96c, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,512 - Client ID: DotnetPublisher9f96534c-2347-4273-9432-1dd94aab6b93, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,513 - Client ID: DotnetPublisher2ada8acf-1b62-4b56-a9fb-72b4169edea9, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,513 - Client ID: DotnetPublisher83e9ea9b-f4a7-4ae2-ae8a-37792dcfbd1b, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,514 - Client ID: DotnetPublisherc701227b-bd61-45ab-9b29-57023a327026, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,515 - Client ID: DotnetPublisher381a7ea2-34b7-48c0-b801-92946f2c44ea, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,515 - Client ID: DotnetPublisherd7755e2d-ce4f-486a-bdab-850bdadb5ce2, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,516 - Client ID: DotnetPublisher0c88b339-9b50-43c1-9c56-0167d361e4f2, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,516 - Client ID: DotnetPublisher34779eb7-3afd-4162-9886-5c05ae092841, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,517 - Client ID: DotnetPublishere79acdbd-ca49-4ee9-b5f2-ae8d35017374, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,517 - Client ID: DotnetPublisher39ac2767-5378-446f-a039-287cd110da51, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,518 - Client ID: DotnetPublisher701d8e84-a07d-4300-9298-2ff116c552b2, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,519 - Client ID: DotnetPublisher4bfb52a9-a546-474c-951b-f53a0dada973, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,520 - Client ID: DotnetPublisherdc1b2f43-cb89-4c6d-9865-1ec61545a39e, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,520 - Client ID: DotnetPublisher4ed5b346-b2b3-498e-9b6b-43f5ddcbef16, IP: 172.17.0.1 disconnected gracefully.
+2025-01-29 14:18:07,521 - Client ID: DotnetPublisherc5f63248-fd82-43b0-910a-cc926363c089, IP: 172.17.0.1 disconnected gracefully.
