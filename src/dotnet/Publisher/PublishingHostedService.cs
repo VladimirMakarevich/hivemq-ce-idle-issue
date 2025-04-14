@@ -7,7 +7,7 @@ using Publisher;
 public class PublishingHostedService : BackgroundService
 {
     private const int SubscriptionCount = 5;
-    private const int ClientsCount = 20;
+    private const int ClientsCount = 40;
     private readonly DateTime _startTime = DateTime.UtcNow;
 
     private readonly IEnumerable<MqttClientWrapper> _clients;

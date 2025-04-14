@@ -1,0 +1,20 @@
+2025-04-14 13:46:37,800 INFO  - Starting HiveMQ Community Edition Server
+2025-04-14 13:46:37,801 INFO  - HiveMQ version: 2025.2
+2025-04-14 13:46:37,801 INFO  - HiveMQ home directory: /opt/hivemq
+2025-04-14 13:46:37,863 INFO  - Log Configuration was overridden by /opt/hivemq/conf/logback.xml
+2025-04-14 13:46:38,015 INFO  - This HiveMQ ID is 1uhh2
+2025-04-14 13:46:39,054 INFO  - Starting with file persistence mode.
+2025-04-14 13:46:39,515 INFO  - Starting HiveMQ extension system.
+2025-04-14 13:46:39,542 WARN  - 
+################################################################################################################
+# This HiveMQ deployment is not secure! You are lacking Authentication and Authorization.                      #
+# Right now any MQTT client can connect to the broker with a full set of permissions.                          #
+# For production usage, add an appropriate security extension and remove the hivemq-allow-all extension.       #
+# You can download security extensions from the HiveMQ Marketplace (https://www.hivemq.com/extensions/).       #
+################################################################################################################
+2025-04-14 13:46:39,543 INFO  - Extension "Allow All Extension" version 1.1.0 started successfully.
+2025-04-14 13:46:39,562 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2025-04-14 13:46:39,582 INFO  - Starting Websocket listener on address 0.0.0.0 and port 8000
+2025-04-14 13:46:39,584 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883.
+2025-04-14 13:46:39,585 INFO  - Started Websocket Listener on address 0.0.0.0 and on port 8000.
+2025-04-14 13:46:39,585 INFO  - Started HiveMQ in 1787ms
